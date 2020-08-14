@@ -1,0 +1,16 @@
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.exe
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.deps.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.runtimeconfig.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.runtimeconfig.dev.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.csprojAssemblyReference.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.AssemblyInfoInputs.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.AssemblyInfo.cs
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\Wav\EmptyVoice1ms.pcm
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\obj\Debug\netcoreapp3.1\ConsoleAppWav2Bytes.csproj.CopyComplete
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\Wav\testRtp8 (2).wav
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppWav2Bytes\bin\Debug\netcoreapp3.1\Wav\testRtp8.wav

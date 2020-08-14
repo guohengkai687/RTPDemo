@@ -1,0 +1,17 @@
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.exe
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.deps.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.runtimeconfig.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.runtimeconfig.dev.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\ConsoleAppMixAudio.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.csprojAssemblyReference.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.AssemblyInfoInputs.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.AssemblyInfo.cs
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.csproj.CopyComplete
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\obj\Debug\netcoreapp3.1\ConsoleAppMixAudio.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\Voice\qqqqqqq.001In.wav
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\Voice\qqqqqqq.001Out.wav
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\Voice\qqqqqqq.001In
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppMixAudio\bin\Debug\netcoreapp3.1\Voice\qqqqqqq.001Out

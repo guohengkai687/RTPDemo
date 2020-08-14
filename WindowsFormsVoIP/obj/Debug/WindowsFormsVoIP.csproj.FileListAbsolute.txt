@@ -1,0 +1,11 @@
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.csprojAssemblyReference.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.MainForm.resources
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.Properties.Resources.resources
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.csproj.GenerateResource.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\bin\Debug\WindowsFormsVoIP.exe
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\bin\Debug\WindowsFormsVoIP.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\bin\Debug\PacketDotNet.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\bin\Debug\SharpPcap.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.csproj.CopyComplete
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.exe
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\WindowsFormsVoIP\obj\Debug\WindowsFormsVoIP.pdb

@@ -1,0 +1,14 @@
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\Wav\testRtp1-pcm16.wav
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.exe
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.deps.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.runtimeconfig.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.runtimeconfig.dev.json
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.pdb
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.csprojAssemblyReference.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.AssemblyInfoInputs.cache
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.AssemblyInfo.cs
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.csproj.CopyComplete
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.dll
+C:\Users\guohk\source\repos\WindowsFormsRTPDemo\ConsoleAppPcm18toPcm8\obj\Debug\netcoreapp3.1\ConsoleAppPcm18toPcm8.pdb
